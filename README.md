@@ -32,6 +32,8 @@ You can use the functions as outlined in the comments written throughout the cod
   - find_poly(): finds the polynomial that fits the data the best (using the formula discussed in the class)
   - plot_f_poly(): plots the approximated value for all the npoints, i.e. yy, and the actual values of the function (sine function), i.e. fstar.
   - find_plot_poly(): applys find_poly() adn plot_f_poly(), so it finds the polynomial and plots it.
+  ![alt text](https://github.com/as2c/project2/blob/main/q1pmax3.png)
+  
   - calc_L2error(): calculates the L2 error of the approximated points yy and the actual values fstar.
   - calc_errors(): calculate errors for all points and put them in an array
   - plot_L2errors(): plotting the errrors
