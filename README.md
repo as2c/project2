@@ -42,7 +42,7 @@ You can use the functions as outlined in the comments written throughout the cod
   - calc_odd_errors(): just like calc_errors in Q2 but only for odd powers
   - plot_odd_L2errors(): just like plot_L2errors function in Q2 but for odd powers
   ![alt text](https://github.com/as2c/project2/blob/main/errors_odd.png)
-  - compare_poly_plots(): comparing the errors of approximating by using only the odd power polynomials (the red line) with approximation using all powers (the blue line).
+  - compare_poly_plots(): comparing the errors of approximating by using only the odd power polynomials (the cyan line) with approximation using all powers (the red line).
   ![alt text](https://github.com/as2c/project2/blob/main/compare_plots.png)
   - calc_D(): based on 4.a) this function calculates D matrix
   - find_d(): This function finds |d> = D |c>
